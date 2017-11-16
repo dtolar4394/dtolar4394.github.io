@@ -16,7 +16,7 @@ p {
 
 #wrapper {
 	margin:0 auto;
-	width:632px;
+	width: 100%;
 	border-left:1px solid #f0e9eb;
 	border-right:1px solid #f0e9eb;
 }
